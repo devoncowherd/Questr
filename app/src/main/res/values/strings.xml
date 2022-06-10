@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Questr</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="current_sorting_array">
+        <item>Sort</item>
+        <item>New</item>
+        <item>Old</item>
+        <item>Alpha</item>
+        <item>Reverse</item>
+    </string-array>
+</resources>
