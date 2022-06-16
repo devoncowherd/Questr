@@ -26,7 +26,7 @@ Usage
 
 > Once you've installed the application, simply install it on a physical or emulated device to see it perform. For references on what it will look like
 > once launched, please see the link below:
-> https://www.figma.com/file/KzIrYMd4Uyv5UDoW1RoVpB/https%3A%2F%2Fgithub.com%2Fdevoncowherd%2Fx_-_a_xii_Weather.git?node-id=0%3A1
+> https://www.figma.com/file/SWesvc2pXDLOWzWR9ltLps/https%3A%2F%2Fgithub.com%2Fdevoncowherd%2FQuestr?node-id=0%3A1
 
 Contributors
 -
